@@ -1,7 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edcc513a-a49e-474d-ad7d-ed18ada2d893" name="Default Changelist" comment="" />
+    <list default="true" id="edcc513a-a49e-474d-ad7d-ed18ada2d893" name="Default Changelist" comment="chore: initial commit">
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/tsconfig.editor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/element-app/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/tsconfig.editor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/apps/test-app/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/decorate-angular-cli.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/module-with-routes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/module-with-routes/ng-package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/module-with-routes/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/module-with-routes/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/module-with-routes/src/lib/component-a/component-a.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/module-with-routes/src/lib/component-a/component-a.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/module-with-routes/src/lib/component-a/component-a.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/module-with-routes/src/lib/component-b/component-b.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/module-with-routes/src/lib/component-b/component-b.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/module-with-routes/src/lib/component-b/component-b.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/module-with-routes/src/lib/module-with-routes.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/module-with-routes/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/module-with-routes/tsconfig.lib.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/module-with-routes/tsconfig.lib.prod.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/libs/module-with-routes/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/nx.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/tools/schematics/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/tools/tsconfig.tools.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/tsconfig.base.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nx-monorepo/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +93,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,6 +105,8 @@
       <option name="presentableId" value="Default" />
       <updated>1608221846926</updated>
       <workItem from="1608221848328" duration="302000" />
+      <workItem from="1608222267310" duration="830000" />
+      <workItem from="1608223122201" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="chore: initial commit">
       <created>1608222019772</created>
@@ -44,13 +115,25 @@
       <option name="project" value="LOCAL" />
       <updated>1608222019772</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chore: initial commit">
+      <created>1608222327022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608222327022</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/nx-monorepo" />
+    </ignored-roots>
     <MESSAGE value="chore: initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="chore: initial commit" />
   </component>
